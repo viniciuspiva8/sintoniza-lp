@@ -11,7 +11,7 @@ O projeto foi construído como uma página única em HTML, CSS e JavaScript puro
 ![WCAG 2.1 AA](https://img.shields.io/badge/WCAG_2.1-AA-2E7D32?style=flat-square)
 ![Dependências](https://img.shields.io/badge/depend%C3%AAncias-0-555?style=flat-square)
 
-**Demo:** [SEU-SITE.netlify.app](https://SEU-SITE.netlify.app) <!-- substituir pelo endereço publicado -->
+**Demo:** [sintonizacontabilidade.netlify.app](https://sintonizacontabilidade.netlify.app/#topo)
 
 ![Página inicial no desktop](docs/screenshot-desktop.jpg)
 
